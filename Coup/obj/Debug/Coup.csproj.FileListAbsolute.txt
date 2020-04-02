@@ -1,0 +1,7 @@
+C:\Users\T'Challa\Desktop\COUP\Coup\Coup\bin\Debug\Coup.exe.config
+C:\Users\T'Challa\Desktop\COUP\Coup\Coup\bin\Debug\Coup.exe
+C:\Users\T'Challa\Desktop\COUP\Coup\Coup\bin\Debug\Coup.pdb
+C:\Users\T'Challa\Desktop\COUP\Coup\Coup\obj\Debug\Coup.csprojAssemblyReference.cache
+C:\Users\T'Challa\Desktop\COUP\Coup\Coup\obj\Debug\Coup.csproj.CoreCompileInputs.cache
+C:\Users\T'Challa\Desktop\COUP\Coup\Coup\obj\Debug\Coup.exe
+C:\Users\T'Challa\Desktop\COUP\Coup\Coup\obj\Debug\Coup.pdb
